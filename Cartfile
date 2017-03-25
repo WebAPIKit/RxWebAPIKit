@@ -1,0 +1,2 @@
+github "WebAPIKit/WebAPIKit" "master"
+github "ReactiveX/RxSwift" ~> 3.0

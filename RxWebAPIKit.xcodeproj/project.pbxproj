@@ -7,6 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2083BCF91E870D4900EB95A0 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BCF51E870D4900EB95A0 /* Alamofire.framework */; };
+		2083BCFA1E870D4900EB95A0 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BCF61E870D4900EB95A0 /* Result.framework */; };
+		2083BCFB1E870D4900EB95A0 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BCF71E870D4900EB95A0 /* RxSwift.framework */; };
+		2083BCFC1E870D4900EB95A0 /* WebAPIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BCF81E870D4900EB95A0 /* WebAPIKit.framework */; };
+		2083BD011E870D5500EB95A0 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BCFD1E870D5500EB95A0 /* Alamofire.framework */; };
+		2083BD021E870D5500EB95A0 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BCFE1E870D5500EB95A0 /* Result.framework */; };
+		2083BD031E870D5500EB95A0 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BCFF1E870D5500EB95A0 /* RxSwift.framework */; };
+		2083BD041E870D5500EB95A0 /* WebAPIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BD001E870D5500EB95A0 /* WebAPIKit.framework */; };
+		2083BD091E870D6100EB95A0 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BD051E870D6100EB95A0 /* Alamofire.framework */; };
+		2083BD0A1E870D6100EB95A0 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BD061E870D6100EB95A0 /* Result.framework */; };
+		2083BD0B1E870D6100EB95A0 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BD071E870D6100EB95A0 /* RxSwift.framework */; };
+		2083BD0C1E870D6100EB95A0 /* WebAPIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BD081E870D6100EB95A0 /* WebAPIKit.framework */; };
+		2083BD111E870D6C00EB95A0 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BD0D1E870D6B00EB95A0 /* Alamofire.framework */; };
+		2083BD121E870D6C00EB95A0 /* Result.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BD0E1E870D6C00EB95A0 /* Result.framework */; };
+		2083BD131E870D6C00EB95A0 /* RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BD0F1E870D6C00EB95A0 /* RxSwift.framework */; };
+		2083BD141E870D6C00EB95A0 /* WebAPIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2083BD101E870D6C00EB95A0 /* WebAPIKit.framework */; };
 		52D6D9871BEFF229002C0205 /* RxWebAPIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52D6D97C1BEFF229002C0205 /* RxWebAPIKit.framework */; };
 		52D6D9981BEFF375002C0205 /* RxWebAPIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D6D9961BEFF375002C0205 /* RxWebAPIKit.swift */; };
 		52D6D99B1BEFF375002C0205 /* RxWebAPIKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D6D9971BEFF375002C0205 /* RxWebAPIKitTests.swift */; };
@@ -44,6 +60,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2083BCF51E870D4900EB95A0 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
+		2083BCF61E870D4900EB95A0 /* Result.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Result.framework; path = Carthage/Build/iOS/Result.framework; sourceTree = "<group>"; };
+		2083BCF71E870D4900EB95A0 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Build/iOS/RxSwift.framework; sourceTree = "<group>"; };
+		2083BCF81E870D4900EB95A0 /* WebAPIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebAPIKit.framework; path = Carthage/Build/iOS/WebAPIKit.framework; sourceTree = "<group>"; };
+		2083BCFD1E870D5500EB95A0 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/Mac/Alamofire.framework; sourceTree = "<group>"; };
+		2083BCFE1E870D5500EB95A0 /* Result.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Result.framework; path = Carthage/Build/Mac/Result.framework; sourceTree = "<group>"; };
+		2083BCFF1E870D5500EB95A0 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Build/Mac/RxSwift.framework; sourceTree = "<group>"; };
+		2083BD001E870D5500EB95A0 /* WebAPIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebAPIKit.framework; path = Carthage/Build/Mac/WebAPIKit.framework; sourceTree = "<group>"; };
+		2083BD051E870D6100EB95A0 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/watchOS/Alamofire.framework; sourceTree = "<group>"; };
+		2083BD061E870D6100EB95A0 /* Result.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Result.framework; path = Carthage/Build/watchOS/Result.framework; sourceTree = "<group>"; };
+		2083BD071E870D6100EB95A0 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Build/watchOS/RxSwift.framework; sourceTree = "<group>"; };
+		2083BD081E870D6100EB95A0 /* WebAPIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebAPIKit.framework; path = Carthage/Build/watchOS/WebAPIKit.framework; sourceTree = "<group>"; };
+		2083BD0D1E870D6B00EB95A0 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/tvOS/Alamofire.framework; sourceTree = "<group>"; };
+		2083BD0E1E870D6C00EB95A0 /* Result.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Result.framework; path = Carthage/Build/tvOS/Result.framework; sourceTree = "<group>"; };
+		2083BD0F1E870D6C00EB95A0 /* RxSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RxSwift.framework; path = Carthage/Build/tvOS/RxSwift.framework; sourceTree = "<group>"; };
+		2083BD101E870D6C00EB95A0 /* WebAPIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebAPIKit.framework; path = Carthage/Build/tvOS/WebAPIKit.framework; sourceTree = "<group>"; };
 		52D6D97C1BEFF229002C0205 /* RxWebAPIKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RxWebAPIKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		52D6D9861BEFF229002C0205 /* RxWebAPIKit-iOS Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RxWebAPIKit-iOS Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52D6D9961BEFF375002C0205 /* RxWebAPIKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RxWebAPIKit.swift; path = Sources/RxWebAPIKit.swift; sourceTree = "<group>"; };
@@ -62,6 +94,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2083BCF91E870D4900EB95A0 /* Alamofire.framework in Frameworks */,
+				2083BCFA1E870D4900EB95A0 /* Result.framework in Frameworks */,
+				2083BCFB1E870D4900EB95A0 /* RxSwift.framework in Frameworks */,
+				2083BCFC1E870D4900EB95A0 /* WebAPIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -77,6 +113,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2083BD091E870D6100EB95A0 /* Alamofire.framework in Frameworks */,
+				2083BD0A1E870D6100EB95A0 /* Result.framework in Frameworks */,
+				2083BD0B1E870D6100EB95A0 /* RxSwift.framework in Frameworks */,
+				2083BD0C1E870D6100EB95A0 /* WebAPIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,6 +124,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2083BD111E870D6C00EB95A0 /* Alamofire.framework in Frameworks */,
+				2083BD121E870D6C00EB95A0 /* Result.framework in Frameworks */,
+				2083BD131E870D6C00EB95A0 /* RxSwift.framework in Frameworks */,
+				2083BD141E870D6C00EB95A0 /* WebAPIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -91,6 +135,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2083BD011E870D5500EB95A0 /* Alamofire.framework in Frameworks */,
+				2083BD021E870D5500EB95A0 /* Result.framework in Frameworks */,
+				2083BD031E870D5500EB95A0 /* RxSwift.framework in Frameworks */,
+				2083BD041E870D5500EB95A0 /* WebAPIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -113,6 +161,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2083BCCD1E870B4A00EB95A0 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2083BD0D1E870D6B00EB95A0 /* Alamofire.framework */,
+				2083BD0E1E870D6C00EB95A0 /* Result.framework */,
+				2083BD0F1E870D6C00EB95A0 /* RxSwift.framework */,
+				2083BD101E870D6C00EB95A0 /* WebAPIKit.framework */,
+				2083BD051E870D6100EB95A0 /* Alamofire.framework */,
+				2083BD061E870D6100EB95A0 /* Result.framework */,
+				2083BD071E870D6100EB95A0 /* RxSwift.framework */,
+				2083BD081E870D6100EB95A0 /* WebAPIKit.framework */,
+				2083BCFD1E870D5500EB95A0 /* Alamofire.framework */,
+				2083BCFE1E870D5500EB95A0 /* Result.framework */,
+				2083BCFF1E870D5500EB95A0 /* RxSwift.framework */,
+				2083BD001E870D5500EB95A0 /* WebAPIKit.framework */,
+				2083BCF51E870D4900EB95A0 /* Alamofire.framework */,
+				2083BCF61E870D4900EB95A0 /* Result.framework */,
+				2083BCF71E870D4900EB95A0 /* RxSwift.framework */,
+				2083BCF81E870D4900EB95A0 /* WebAPIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		52D6D9721BEFF229002C0205 = {
 			isa = PBXGroup;
 			children = (
@@ -120,6 +191,7 @@
 				52D6D9971BEFF375002C0205 /* RxWebAPIKitTests.swift */,
 				52D6D99C1BEFF38C002C0205 /* Configs */,
 				52D6D97D1BEFF229002C0205 /* Products */,
+				2083BCCD1E870B4A00EB95A0 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -330,7 +402,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
 				LastUpgradeCheck = 0810;
-				ORGANIZATIONNAME = "RxWebAPIKit";
+				ORGANIZATIONNAME = RxWebAPIKit;
 				TargetAttributes = {
 					52D6D97B1BEFF229002C0205 = {
 						CreatedOnToolsVersion = 7.1;
@@ -620,6 +692,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = Configs/RxWebAPIKit.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
@@ -643,6 +719,10 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
 				INFOPLIST_FILE = Configs/RxWebAPIKit.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
@@ -690,6 +770,11 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
+				);
 				INFOPLIST_FILE = Configs/RxWebAPIKit.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -712,6 +797,11 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/watchOS",
+				);
 				INFOPLIST_FILE = Configs/RxWebAPIKit.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -735,6 +825,11 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+				);
 				INFOPLIST_FILE = Configs/RxWebAPIKit.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -757,6 +852,11 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/tvOS",
+				);
 				INFOPLIST_FILE = Configs/RxWebAPIKit.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -781,6 +881,11 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+				);
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = Configs/RxWebAPIKit.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
@@ -804,6 +909,11 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+					"$(PROJECT_DIR)/Carthage/Build/Mac",
+				);
 				FRAMEWORK_VERSION = A;
 				INFOPLIST_FILE = Configs/RxWebAPIKit.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";

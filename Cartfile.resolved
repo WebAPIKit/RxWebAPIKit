@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "4.4.0"
+github "antitypical/Result" "3.2.1"
+github "ReactiveX/RxSwift" "3.3.1"
+github "WebAPIKit/WebAPIKit" "11caf1def36312396e6aaf87f69c4e01c3f37510"
