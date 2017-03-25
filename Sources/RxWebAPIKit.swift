@@ -28,15 +28,15 @@ import RxSwift
 
 extension WebAPIRequest {
 
-    func rx_send(by httpClient: HTTPClient? = nil) -> Observable<WebAPIResponse> {
+    public func rx_send(by httpClient: HTTPClient? = nil) -> Observable<WebAPIResponse> {
         return RxCreator(httpClient: httpClient, send: send).create()
     }
 
-    func rx_sendAndDecode<T: ResponseData>(by httpClient: HTTPClient? = nil) -> Observable<T> {
+    public func rx_sendAndDecode<T: ResponseData>(by httpClient: HTTPClient? = nil) -> Observable<T> {
         return RxCreator(httpClient: httpClient, send: sendAndDecode).create()
     }
 
-    func rx_sendAndDecodeList<T: ResponseData>(by httpClient: HTTPClient? = nil) -> Observable<[T]> {
+    public func rx_sendAndDecodeList<T: ResponseData>(by httpClient: HTTPClient? = nil) -> Observable<[T]> {
         return RxCreator(httpClient: httpClient, send: sendAndDecodeList).create()
     }
     
